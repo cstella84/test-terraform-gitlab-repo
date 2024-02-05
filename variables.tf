@@ -4,7 +4,6 @@ variable "gitlab_token" {
 
 variable "gitlab_base_url" {
   type    = string
-  default = "https://gitlab.com"
 }
 
 variable "gitlab_project_name" {
